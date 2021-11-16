@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Fino\Exercicio2\Exercicio2\bin\Debug\net6.0\Exercicio2.deps.json
+C:\Users\user\Desktop\Fino\Exercicio2\Exercicio2\bin\Debug\net6.0\Exercicio2.dll
+C:\Users\user\Desktop\Fino\Exercicio2\Exercicio2\bin\Debug\net6.0\ref\Exercicio2.dll
+C:\Users\user\Desktop\Fino\Exercicio2\Exercicio2\bin\Debug\net6.0\Exercicio2.pdb
+C:\Users\user\Desktop\Fino\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Fino\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Fino\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.AssemblyInfo.cs
+C:\Users\user\Desktop\Fino\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Fino\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.dll
+C:\Users\user\Desktop\Fino\Exercicio2\Exercicio2\obj\Debug\net6.0\ref\Exercicio2.dll
+C:\Users\user\Desktop\Fino\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.pdb
